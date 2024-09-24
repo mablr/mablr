@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in a Cybersecurity Lab of Arctic University of Norway.
-- 🤔 I'm conducting research into data traceability in Distributed Systems.
-- 🌱 I have a background in SysAdmin, Automation and OSINT. 
-- ⚡ Main topics : #Linux #LSM #Rust #Cybersecurity #OSINT
+- 🔭 I’m currently working in a Cybersecurity Lab at the Arctic University of Norway.
+- 👨‍🔬 I do research into Data Traceability in Decentralized Systems.
+- 🛠️ I tweak and tinker with smart contracts to widen the gap. 💪
+- 🌱 I have a background in SysAdmin, Automation and OSINT.
+- ⚡ Main Topics : #Rust #Ethereum #Linux #Cybersecurity #OSINT
